@@ -1,0 +1,6116 @@
+{
+    "type": "FeatureCollection",
+    "name": "LVM_SABIEDRIBAI_NOZIMIGAS_VIETAS_Shape",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "urn:ogc:def:crs:EPSG::3059"
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Kaļņa ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22128",
+          "BLOCKKEY": "111-633"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [680527.978100169, 332724.626692906]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Piemiņas vieta \"Īles bunkurs\"",
+          "PLACESUBTY": 8,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22625",
+          "BLOCKKEY": "606-84"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [433957.672499997, 271032.412799982]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Pinku ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22221",
+          "BLOCKKEY": "201-332"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [359822.431899868, 319740.110098467]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Ziloņa ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-47"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [395926.032499965, 332161.638199738]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Avotu karjera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22223",
+          "BLOCKKEY": "203-281"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [334685.940999777, 294886.939996006]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Fašisma upuru piemiņas vietas Rumbas pagastā",
+          "PLACESUBTY": 8,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-344"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [378857.769699929, 319046.426299361]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Līkais mežs\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22229",
+          "BLOCKKEY": "211-346"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [407284.98869998, 279332.974899876]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Cieceres upes",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22225",
+          "BLOCKKEY": "206-394"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [382672.143599938, 284177.533699495]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Vārmes",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22225",
+          "BLOCKKEY": "206-200"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [387023.379699949, 303916.023099586]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Remtes parks",
+          "PLACESUBTY": 1,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22226",
+          "BLOCKKEY": "208-160"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [420275.65649999, 288870.148499948]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Pūcīte\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22227",
+          "BLOCKKEY": "209-247"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [325561.985299739, 256959.544094742]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Kalētu upmala\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22227",
+          "BLOCKKEY": "210-388"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [342396.386299783, 243454.442097185]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Slīteres avots",
+          "PLACESUBTY": 1,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22722",
+          "BLOCKKEY": "703-10"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [397702.133199969, 387293.011699747]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta dabas liegumā \"Dunika\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213-472"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [337609.082399761, 239645.232696648]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Bušnieki\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22726",
+          "BLOCKKEY": "701-390"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [359644.053199874, 368633.274598359]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Tirziņas ietekas Gaujā",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22124",
+          "BLOCKKEY": "105-246"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [646037.625300145, 363671.260897932]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Sēnīte\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22124",
+          "BLOCKKEY": "105-195"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [641528.200400131, 360598.529398293]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Meistara ezera (Malstara ezers)",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22125",
+          "BLOCKKEY": "107-98"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [689227.108499986, 378375.203390042]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Odzīte\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22322",
+          "BLOCKKEY": "302"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [631557.518000106, 267219.151099017]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Klepiņu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22327",
+          "BLOCKKEY": "313-167"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [678122.910500326, 182960.31689456]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Mežmuižas ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-28"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [395554.702199965, 332472.510499733]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Sasaļu mežs\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22327",
+          "BLOCKKEY": "312-61"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [644158.504100163, 200420.751098434]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Mastiņu ceļa",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22127",
+          "BLOCKKEY": "110-295"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [649109.400800159, 343469.712797715]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Ratenieku ceļa",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22127",
+          "BLOCKKEY": "110-409"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [658074.910400184, 346470.793396746]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Dambakalna ceļa",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22127",
+          "BLOCKKEY": "110-203"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [646241.926800148, 349170.241997952]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Klajā purva ceļa",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22127",
+          "BLOCKKEY": "110-158"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [652610.160800166, 356003.290797331]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Krievānu krustojums\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22528",
+          "BLOCKKEY": "510-380"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [565554.913600003, 241126.577499986]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Pusdienu stiga\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22528",
+          "BLOCKKEY": "510-302"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [563183.530500003, 251841.263499986]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Fašisma upuru piemiņas vietas Rumbas pagastā",
+          "PLACESUBTY": 8,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-351"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [382355.736199938, 320054.905299463]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Siržu vieta\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22528",
+          "BLOCKKEY": "510-195"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [559484.710400002, 257092.881299991]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Rīteru karjers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-368"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [591135.102900018, 276050.196499888]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Pieci ceļi\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22526",
+          "BLOCKKEY": "508-147"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [530978.4786, 285274.0368]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Silenieku atpūtas vieta",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22525",
+          "BLOCKKEY": "506-290"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [569377.799800005, 259087.170499977]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Ozolkalnu atpūtas vieta",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22525",
+          "BLOCKKEY": "507-293"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [575373.044800007, 251667.714399965]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Matraču ceļš\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22525",
+          "BLOCKKEY": "507-167"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [582279.674700011, 255373.79599994]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Jūgu krustojuma atpūtas vieta",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22524",
+          "BLOCKKEY": "506-269"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [567083.409900004, 260126.352399982]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Bleķa briedis\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22524",
+          "BLOCKKEY": "506-39"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [562256.085700002, 270314.712199988]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Berlīnes krusts\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22523",
+          "BLOCKKEY": "505-242"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [550470.904500001, 265839.610999996]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Silenieku krusts\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22523",
+          "BLOCKKEY": "505-106"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [554059.455500002, 272717.600799994]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Dunikas Skabāržu audze\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213-554"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [339060.383899765, 235836.446196839]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Slujas ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-160"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [389633.103799954, 329204.77249963]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Ziloņa ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-47"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [396096.970599966, 332872.921099739]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vietas pie Segliņu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-170"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [394687.829799964, 329510.991999719]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Lašupes dzirnavu dīķa",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22226",
+          "BLOCKKEY": "207-291"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [395423.143099964, 286477.501299745]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Baltezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22322",
+          "BLOCKKEY": "302-66"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [634297.795100115, 278432.435898874]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Sudmaļu pilskalns",
+          "PLACESUBTY": 1,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22327",
+          "BLOCKKEY": "312-94"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [646495.401200175, 197449.193898284]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Zemenīte\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22326",
+          "BLOCKKEY": "310-261"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [673021.979700301, 196962.412395352]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Krauja\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22326",
+          "BLOCKKEY": "312-271"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [680069.744800318, 197937.773294085]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Daugavas",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22326",
+          "BLOCKKEY": "313-271"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [695621.91940027, 198004.58759028]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Gaišā ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22325",
+          "BLOCKKEY": "309-342"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [655321.729100218, 202081.22099755]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Lielais Nīcgales akmens",
+          "PLACESUBTY": 1,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22325",
+          "BLOCKKEY": "309-154"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [652914.933100201, 225751.516997703]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Pūcīte\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22324",
+          "BLOCKKEY": "304-235"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [627357.701500094, 232540.650399224]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Sēnīte\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22324",
+          "BLOCKKEY": "307-187"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [633723.135000116, 229389.104198965]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Raktais ceļš\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22324",
+          "BLOCKKEY": "308-22"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [637235.043300131, 225622.271398797]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Pie mežniecības\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22324",
+          "BLOCKKEY": "308-105"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [641759.338600151, 217429.284098555]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Zolvas krasts\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22323",
+          "BLOCKKEY": "306-278"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [686640.050800267, 235292.123592322]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Rušenicas pilskalns",
+          "PLACESUBTY": 1,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22323",
+          "BLOCKKEY": "306-282"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [687905.094100262, 234187.141392015]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Šusta ceļš\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22323",
+          "BLOCKKEY": "306-235"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [667369.83440026, 234329.16039601]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Tīteņi Steķu silā\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22323",
+          "BLOCKKEY": "306-15"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [637117.654100128, 253014.956298761]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Piļkas\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22322",
+          "BLOCKKEY": "305-33"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [619338.896300068, 254353.41299946]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Lēlītis\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22322",
+          "BLOCKKEY": "304-44"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [609346.825100045, 247646.194699684]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie jūras \"Vasas\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22423",
+          "BLOCKKEY": "405-269"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [522660.8545, 375523.383999997]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Zilaiskalns",
+          "PLACESUBTY": 1,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22425",
+          "BLOCKKEY": "407-392"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [573632.763600006, 379654.524199964]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Purezera taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22424",
+          "BLOCKKEY": "406-195"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [555300.267000002, 393433.739299991]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Bauņu parks",
+          "PLACESUBTY": 1,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22422",
+          "BLOCKKEY": "403-344"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [569308.579700004, 400827.810499974]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Kaupēna ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22428",
+          "BLOCKKEY": "412-29"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [601078.13740003, 344130.923399775]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Planču purva taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22421",
+          "BLOCKKEY": "402-192"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [544713.561200001, 415720.154899997]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Mednieku atpūtas vieta",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22525",
+          "BLOCKKEY": "507-150"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [584818.920400013, 257101.599999929]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Abula upes",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-144"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [615919.879700057, 366459.447499479]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta\"Miera avots\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22326",
+          "BLOCKKEY": "311-305"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [701521.791600204, 196784.1319884]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta Durbes upes krastā",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22223",
+          "BLOCKKEY": "203-460"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [337729.398099783, 292468.784796439]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Staldzenes stāvkrasts",
+          "PLACESUBTY": 1,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22726",
+          "BLOCKKEY": "701-360"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [356872.831099866, 370940.44359815]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Upesgrīva\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22728",
+          "BLOCKKEY": "712-55"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [441450.471999998, 360290.58869999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Ververu loks\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22326",
+          "BLOCKKEY": "310-272"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [677463.564000313, 197801.436294584]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Piemiņas vieta \"1. pasaules kara kapi\"",
+          "PLACESUBTY": 8,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22321",
+          "BLOCKKEY": "301-58"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [600226.883400029, 258769.784199807]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Puzes ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22721",
+          "BLOCKKEY": "705-61"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [377472.928099927, 357479.783999282]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Bērziņi\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22721",
+          "BLOCKKEY": "705-305"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [385957.725299947, 352909.462099534]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Lūrmaņu avots\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22722",
+          "BLOCKKEY": "707-116"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [421348.607499992, 366135.566999949]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Ķurbes karjers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22722",
+          "BLOCKKEY": "703-404"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [413124.881799986, 371971.949599905]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Lubes dzirnavas\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22722",
+          "BLOCKKEY": "707-88"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [419311.30979999, 367671.975099937]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Puteru ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22723",
+          "BLOCKKEY": "702-62"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [392058.70249996, 385932.024399651]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Ezermala\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22724",
+          "BLOCKKEY": "706-329"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [402365.117899975, 358601.780099812]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Užava\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22725",
+          "BLOCKKEY": "708-334"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [344047.517999823, 347807.774996994]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Dzelzkalna ceļš\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22726",
+          "BLOCKKEY": "709-18"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [371150.854399908, 354987.942099034]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Veģi\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22727",
+          "BLOCKKEY": "714-205"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [407530.037399981, 326890.137299869]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Kaltene\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22728",
+          "BLOCKKEY": "707-286"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [426410.550699993, 364071.757799964]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Kažezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22729",
+          "BLOCKKEY": "713-76"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [369139.546199901, 338394.21649896]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta Ančupānu meža parkā",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22825",
+          "BLOCKKEY": "809-39"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [703901.046499938, 270509.689186365]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Vadzola ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22821",
+          "BLOCKKEY": "801-153"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [633670.30450011, 299118.283898877]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Kapu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22822",
+          "BLOCKKEY": "802-685"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [656309.438300195, 298771.933397131]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Žīguri\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22823",
+          "BLOCKKEY": "804-377"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [720682.756898499, 353552.781475687]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Pie dīķa\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22823",
+          "BLOCKKEY": "804-373"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [717771.573598762, 354198.406777535]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Līdaces ezers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-494"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [607923.243600042, 280936.983199695]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Jumpravas sēnīte\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22521",
+          "BLOCKKEY": "501-425"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [559385.867000002, 287975.32619999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Siliņu ceļš\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22524",
+          "BLOCKKEY": "506-128"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [571943.072300006, 268728.898899972]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Skaistkalnes karsta kritenēm",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22523",
+          "BLOCKKEY": "505-396"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [542678.2483, 249608.052499998]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Skrīveru dendroloģiskais parks",
+          "PLACESUBTY": 1,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22524",
+          "BLOCKKEY": "502-515"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [564678.526100004, 275300.966599985]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Vigvams\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22321",
+          "BLOCKKEY": "303-238"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [585063.622300013, 240828.415299929]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Rindas Lāži\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22723",
+          "BLOCKKEY": "701-175"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [372384.005999914, 380838.352499054]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Smilšu dzirnavas\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22723",
+          "BLOCKKEY": "704-420"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [373997.937399919, 377498.732299131]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Gaujas dabas taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "102-413"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [602049.41240003, 387928.53719975]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Piemiņas vieta Jelgavas 3.kājnieku pulkam",
+          "PLACESUBTY": 8,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22825",
+          "BLOCKKEY": "809-346"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [687675.642200261, 235218.030492065]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Kuņķrags\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22727",
+          "BLOCKKEY": "711-232"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [390284.854699956, 340042.689199638]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Vasenieku purva taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22721",
+          "BLOCKKEY": "702-184"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [388903.745999954, 358634.318299598]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Rojnieki\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22723",
+          "BLOCKKEY": "701-85"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [385391.392999947, 386947.536999503]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Irbene\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22723",
+          "BLOCKKEY": "701-148"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [373859.946299918, 382146.48699912]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Krūtes pilskalna",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22227",
+          "BLOCKKEY": "210-361"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [338545.091899767, 246026.337796737]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie jūras",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213-50"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [312924.543899738, 237058.723592197]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Kāpas malā\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213-60"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [312908.147399737, 236242.076192201]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Pinku ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22221",
+          "BLOCKKEY": "201-332"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [359923.442099868, 319521.830498474]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Tebras upes",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22223",
+          "BLOCKKEY": "204-84"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [342443.370499802, 301162.300296983]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Rīteru karjers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-368"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [591420.901700019, 276114.098799885]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Rīteru karjers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-368"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [591671.446300019, 275897.156599885]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Rīteru karjers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-368"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [591433.871100019, 275771.589599886]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Rīteru karjers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-368"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [591511.071600019, 276032.900299886]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Pīļezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22423",
+          "BLOCKKEY": "408-527"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [553893.316400001, 349523.571899995]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Dūņezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22721",
+          "BLOCKKEY": "710-98"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [379645.253999932, 352885.120399358]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Pāvilostas",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22223",
+          "BLOCKKEY": "203-75"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [327684.29419978, 307681.953894798]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Rindas upes",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22723",
+          "BLOCKKEY": "701-290"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [373285.803499917, 376835.4955991]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Rākova\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22823",
+          "BLOCKKEY": "804-94"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [721405.093298365, 360582.564874986]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Tadenava\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22324",
+          "BLOCKKEY": "307-327"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [631311.730800108, 227696.961299075]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Lazdaga ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22824",
+          "BLOCKKEY": "805-141"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [680048.252900179, 327405.428193066]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Kaļņa ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22824",
+          "BLOCKKEY": "805-108"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [681149.449600167, 331449.06659277]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Ķēķis\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22821",
+          "BLOCKKEY": "808-208"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [676832.302000238, 282848.002494109]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Restorāns\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22821",
+          "BLOCKKEY": "808-232"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [675465.789700241, 281198.068694389]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Janopoles dīķis\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22825",
+          "BLOCKKEY": "809-77"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [709550.134499795, 258889.834884163]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Šostu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22825",
+          "BLOCKKEY": "809-88"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [724547.499798957, 254411.013176147]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Vorcu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22827",
+          "BLOCKKEY": "811-259"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [731322.908298313, 253763.331571504]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Kovšu ezera (Kaušezers)",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22827",
+          "BLOCKKEY": "812-191"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [749854.976195486, 238998.097155529]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Suķiera ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22121",
+          "BLOCKKEY": "101-253"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [610230.646100044, 413673.062599591]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Valda ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22121",
+          "BLOCKKEY": "101-184"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [605570.611900036, 402206.098599687]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Gaujas",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "102-209"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [617932.450500061, 393417.3575994]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Dziļā ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "103-174"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [623978.841300076, 393656.892899194]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Aiz Oliņām\" pie Gaujas",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "102-340"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [612527.002200049, 388074.615699552]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Gaujas tilta \"Strenči\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "102-437"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [601563.35470003, 387492.720299757]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Lielā Svētiņu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22825",
+          "BLOCKKEY": "808-61"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [692564.449600108, 295597.498190021]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Iežuleja\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "103-237"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [618125.535000061, 390353.944699397]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Cepurītes ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "103-234"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [630888.206900094, 392278.555298886]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Darvas ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "103-489"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [633272.805600101, 385863.56569877]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Salaiņa ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "103-568"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [629194.71610009, 383683.729598979]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vietas pie Dziļā ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "103-174"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [624165.117600076, 393621.553499187]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Cērtenes pilskalns",
+          "PLACESUBTY": 1,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-160"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [614266.088600054, 364600.21179952]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Kaļņa ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22128",
+          "BLOCKKEY": "111-633"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [680259.328900172, 332329.458692972]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Spiciera ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-148"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [617840.868100061, 366207.521899425]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Aizupes\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22721",
+          "BLOCKKEY": "705-333"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [391768.054299959, 352007.300799659]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Pāvilostas",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22223",
+          "BLOCKKEY": "203-73"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [329771.375799779, 308148.018795162]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Ūdrkalna skatu tornis",
+          "PLACESUBTY": 1,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22727",
+          "BLOCKKEY": "711-215"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [392240.67149996, 342262.585199673]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Kapličas vārti",
+          "PLACESUBTY": 1,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22124",
+          "BLOCKKEY": "105-342"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [643931.508700136, 376686.676898074]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Inčukalna velnala",
+          "PLACESUBTY": 1,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22426",
+          "BLOCKKEY": "408-401"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [538692.1351, 331695.315199997]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Kovšu ezera (Kaušezers)",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22827",
+          "BLOCKKEY": "812-191"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [750266.298295392, 238985.293955086]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Kovšu ezera (Kaušezers)",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22827",
+          "BLOCKKEY": "812-191"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [749384.547695585, 239350.463356012]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Baltezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22528",
+          "BLOCKKEY": "510-106"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [563490.226400003, 262029.939399987]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Užavas bāka\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22725",
+          "BLOCKKEY": "708-343"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [343912.91089982, 343692.070596993]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie \"Bekām\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22121",
+          "BLOCKKEY": "103-64"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [625300.281900078, 397637.377899137]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Klāņu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22726",
+          "BLOCKKEY": "701-376"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [366386.165399896, 371922.216698772]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Pie eglēm\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22321",
+          "BLOCKKEY": "301-209"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [601610.644000032, 251910.987999793]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Butkas\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22324",
+          "BLOCKKEY": "308-84"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [642192.959800153, 220878.396798522]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Rīteru karjers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-368"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [591119.786600018, 275990.626399888]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Piebalgas\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22526",
+          "BLOCKKEY": "508-174"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [526464.8431, 281918.497999998]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Garākalna smilšu krupja atradne\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22626",
+          "BLOCKKEY": "607-76"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [446576.143099999, 256318.483299996]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Jūrkalnes stāvkrasts",
+          "PLACESUBTY": 1,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22725",
+          "BLOCKKEY": "708-233"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [340810.863599804, 321211.662896711]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Ukru gārša",
+          "PLACESUBTY": 3,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22626",
+          "BLOCKKEY": "607-143"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [451174.6566, 248583.375599997]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Dzērves kakls\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22822",
+          "BLOCKKEY": "802-718"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [663700.669700214, 307266.954096177]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Iršu parka taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22625",
+          "BLOCKKEY": "607-29"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [443081.695299998, 260431.317199993]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Gaujas",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "102-444"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [603344.534400033, 388055.67879973]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Strenču pilsētas meža taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "102-413"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [602255.558100031, 388642.680599748]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Niedrāja ezera \"Dienvidu gals\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-128"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [618568.964500062, 367113.357599403]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Dauģēnu klintis",
+          "PLACESUBTY": 1,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22422",
+          "BLOCKKEY": "403-281"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [560133.323700002, 417373.021799987]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Jānīša dabas taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22621",
+          "BLOCKKEY": "601-265"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [441814.057599998, 330383.801099991]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Lāčupes taka līdz jūrai",
+          "PLACESUBTY": 3,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22621",
+          "BLOCKKEY": "601-525"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [461021.330799999, 322573.197399998]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Vaskara ezers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22621",
+          "BLOCKKEY": "601-171"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [441888.952099998, 335403.492499991]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Engures taka līdz jūrai",
+          "PLACESUBTY": 3,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22621",
+          "BLOCKKEY": "601-62"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [453005.533699999, 336780.830399997]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Jūriņas taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22621",
+          "BLOCKKEY": "601-62"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [453321.049999999, 336295.583599998]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Engures ezera dabas parks\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22621",
+          "BLOCKKEY": "601-19"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [447946.691899999, 346377.891499994]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Rīteru karjers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-368"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [591197.688700018, 276141.492199888]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta Iecavas piepilsētas mežos",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22527",
+          "BLOCKKEY": "508-403"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [513216.041, 271540.278]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Ančupānu skatu tornis",
+          "PLACESUBTY": 1,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22825",
+          "BLOCKKEY": "809-39"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [703823.219699938, 270947.04128639]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "LVM Kalsnavas arborētums",
+          "PLACESUBTY": 7,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "13301",
+          "BLOCKKEY": "801-361"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [619317.801900068, 283901.44229944]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Skrīveru svešzemju koku stādījumi",
+          "PLACESUBTY": 1,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22524",
+          "BLOCKKEY": "502-511"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [564635.444200003, 275367.849999985]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta Daugavas krastā",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22523",
+          "BLOCKKEY": "505-438"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [556219.702800002, 276871.501299993]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Mierkalna karjera dīķa",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22121",
+          "BLOCKKEY": "101-91"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [597122.342300024, 410115.207499808]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Aklais ezers\".",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22523",
+          "BLOCKKEY": "505-203"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [555594.619400002, 269362.157899993]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "MTB trase \"Mugurkalni\"",
+          "PLACESUBTY": 4,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22521",
+          "BLOCKKEY": "501-373"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [546456.2671, 288680.160099996]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtaas vieta \"Zārdava\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22729",
+          "BLOCKKEY": "713-384"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [381854.096799937, 330970.631899441]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "LVM Kaņiera ezers",
+          "PLACESUBTY": 7,
+          "REG_CODE": null,
+          "LVM_DISTRI": null,
+          "BLOCKKEY": "601"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [468889.3664, 317689.582299998]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Gaujas",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22124",
+          "BLOCKKEY": "105-363"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [643685.965400135, 374922.198598096]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Smiltiņkalns",
+          "PLACESUBTY": 1,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22622",
+          "BLOCKKEY": "603-205"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [423771.849499992, 301932.760399959]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Lejas ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22623",
+          "BLOCKKEY": "604-57"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [527000.0446, 293515.415599999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Pakuļu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22623",
+          "BLOCKKEY": "604-140"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [531885.2675, 288255.775499999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Kausu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22623",
+          "BLOCKKEY": "604-126"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [531300.3957, 289676.808900001]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Pūres meža taka\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22622",
+          "BLOCKKEY": "603-26"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [435482.540499997, 320766.736999984]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Gauju ceļa",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22628",
+          "BLOCKKEY": "610-144"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [501127.4533, 280642.0291]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Ventmala\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22229",
+          "BLOCKKEY": "211-230"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [383321.956699939, 261038.359299524]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Deguma ceļš\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22525",
+          "BLOCKKEY": "507-63"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [585688.854300013, 261010.196499922]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Stirnu ceļš\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22525",
+          "BLOCKKEY": "507-280"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [578615.402200009, 252892.099899954]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Stukmaņu līnija\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-286"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [596139.988700023, 286011.509999844]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Krievu kalni",
+          "PLACESUBTY": 1,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22625",
+          "BLOCKKEY": "606-96"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [439525.807199997, 273190.15359999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Pūrciema baltā kāpa",
+          "PLACESUBTY": 3,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22722",
+          "BLOCKKEY": "703-219"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [417943.30619999, 382432.145399931]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Melnsils - Ģipka pludmale\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22722",
+          "BLOCKKEY": "703-150"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [415934.270899988, 387846.306499921]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Dundagas pils parks",
+          "PLACESUBTY": 1,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22724",
+          "BLOCKKEY": "706-33"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [401601.760299974, 375236.539399802]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Piemiņas vieta \"1. pasaules kara vācu brāļu kapi\"",
+          "PLACESUBTY": 8,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22321",
+          "BLOCKKEY": "301-47"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [600480.883900029, 261113.997299805]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Motrīnes ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22826",
+          "BLOCKKEY": "807-204"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [719595.975898947, 308739.363777681]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Gaujas tilta \"Strenči\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "102-437"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [601328.35790003, 387557.221899761]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Gaujas blakus A3 stāvlaukumam",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "102-350"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [603965.200700034, 388567.932299719]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Boju pils parks",
+          "PLACESUBTY": 1,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22224",
+          "BLOCKKEY": "204-420"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [356448.562899851, 284069.093098308]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta\"Līdaces ezers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-497"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [607837.612600041, 280725.807999697]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Rīteru karjers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-368"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [591281.194500019, 275857.548099889]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta  \"Zalves\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22525",
+          "BLOCKKEY": "511-119"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [577483.642900008, 245481.690999959]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Plisūna (Plusona) ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22827",
+          "BLOCKKEY": "812-252"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [748678.196795791, 236759.177456895]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Spicu tilta",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22121",
+          "BLOCKKEY": "103-163"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [619106.049700063, 394007.052899365]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Kalsnavas arborētuma skatu tornis",
+          "PLACESUBTY": 7,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22821",
+          "BLOCKKEY": "801-361"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [619146.379800067, 284163.209299446]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Riežupes dabas parks",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-366"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [379645.279199931, 317862.714799385]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Zaņas upes",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22229",
+          "BLOCKKEY": "211-200"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [388887.299899952, 266464.561099643]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta Grobiņa- Bārta ceļa malā",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22227",
+          "BLOCKKEY": "209-304"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [329443.920699743, 255711.859595412]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Avotiņu atpūtas vieta",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22521",
+          "BLOCKKEY": "502-204"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [577203.694200008, 297340.154699956]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Dunikas purva laipas",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213-472"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [337986.136499763, 240446.472296692]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Kartavkalna dabas taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22624",
+          "BLOCKKEY": "605-107"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [439889.133199998, 286267.025499988]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vietas pie Segliņu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-216"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [394735.122299964, 328498.097799718]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Karogu karjera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22421",
+          "BLOCKKEY": "402-256"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [546693.391300001, 409674.197699996]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta Daugavas krastā",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22523",
+          "BLOCKKEY": "505-438"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [556392.291400002, 276732.528699993]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Ķirbižu meža taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22424",
+          "BLOCKKEY": "405-111"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [529179.1255, 389906.4287]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Stelpes dīķis\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22527",
+          "BLOCKKEY": "505-299"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [531341.7668, 261573.295899998]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta Daugavas krastā",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22523",
+          "BLOCKKEY": "505-438"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [556451.086500002, 276684.575699993]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Sēņotāju māja\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22526",
+          "BLOCKKEY": "504-10"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [535819.420300001, 289665.478899999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Kokneses parks",
+          "PLACESUBTY": 1,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-273"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [587085.480200015, 278061.985099913]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Magoņu krusts\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22528",
+          "BLOCKKEY": "510-144"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [562597.716000003, 260334.769299989]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Priedaines",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-165"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [616178.472700057, 365263.010999472]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Alaines muižas ēku komplekss",
+          "PLACESUBTY": 1,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-629"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [587554.565900015, 278626.392499912]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Ellītes sēravots",
+          "PLACESUBTY": 1,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22525",
+          "BLOCKKEY": "507-45"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [577652.082700008, 260897.463299958]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Jaunpils Elles kalns",
+          "PLACESUBTY": 1,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22624",
+          "BLOCKKEY": "605-44"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [434276.717499997, 290581.739099983]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Mucenieku mežs\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22624",
+          "BLOCKKEY": "605-346"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [447635.124799999, 275289.493999995]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Partizānu mītne",
+          "PLACESUBTY": 1,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22826",
+          "BLOCKKEY": "807-175"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [712102.86569945, 307555.222781909]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie jūras",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213-40"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [313002.980999739, 238273.760892206]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Garās līnijas",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22625",
+          "BLOCKKEY": "606-192"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [426539.067799994, 268815.528799968]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Ziloņa ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-47"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [395910.129199966, 332313.924199737]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Spārnu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22625",
+          "BLOCKKEY": "606-160"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [441091.070999999, 268198.035099992]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Ružu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22625",
+          "BLOCKKEY": "606-99"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [434899.982999997, 270670.766799985]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Putnu novērošanas tornis pie Papes ezera",
+          "PLACESUBTY": 1,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213-84"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [314787.471699723, 231091.428992705]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Piemiņas vieta \"Bunkurs\"",
+          "PLACESUBTY": 8,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22321",
+          "BLOCKKEY": "303-330"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [604298.950800036, 238491.459299764]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Rāceņu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22821",
+          "BLOCKKEY": "801-143"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [635255.083600116, 300437.055798792]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Muižuļu akmens",
+          "PLACESUBTY": 1,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22423",
+          "BLOCKKEY": "405-157"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [525443.2305, 386648.068999998]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Kabiles partizānu piemiņas vieta",
+          "PLACESUBTY": 8,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22225",
+          "BLOCKKEY": "202-563"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [400534.131899973, 318259.401999803]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Raibais stabiņš\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22525",
+          "BLOCKKEY": "511-10"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [574845.791000007, 250088.359199966]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Niedrāju-Pilkas purva taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22424",
+          "BLOCKKEY": "401-457"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [538061.519000001, 400102.4881]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "test",
+          "PLACESUBTY": 2,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22427",
+          "BLOCKKEY": "410-332"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [576049.601200008, 310295.657099959]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Minhauzena meža taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22423",
+          "BLOCKKEY": "405-349"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [524590.1623, 362829.497300002]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Niedrāja ezera \"Lapene\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-129"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [618571.802800062, 367658.307399401]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Mīlestības taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22425",
+          "BLOCKKEY": "407-382"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [589953.793400016, 379246.968699884]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Niedrāja ezera \"Ziemeļu gals\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-128"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [618526.390300063, 367962.003499405]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Ēkāju ozola",
+          "PLACESUBTY": 2,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22421",
+          "BLOCKKEY": "401-69"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [529587.8353, 418961.306899999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Niedrāja ezera \"Inteliģentu laipa\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-128"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [618451.175900063, 367692.366799407]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Ventspils piekraste\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22725",
+          "BLOCKKEY": "708-291"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [348208.808499837, 358280.71449741]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Zaķu pļava\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22626",
+          "BLOCKKEY": "611-159"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [470959.6306, 253255.7393]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Piemineklis \"Zūru briedis\"",
+          "PLACESUBTY": 1,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22726",
+          "BLOCKKEY": "709-111"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [371635.716899911, 351546.846299059]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "LVM atpūtas un tūrisma centrs \"Ezernieki\"",
+          "PLACESUBTY": 7,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22822",
+          "BLOCKKEY": "802-692"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [656660.805700197, 299368.834597091]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Kārļa masts\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22626",
+          "BLOCKKEY": "607-95"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [446892.675999999, 253600.319099994]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Gaišā ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22325",
+          "BLOCKKEY": "309-342"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [655080.740000217, 202456.927697571]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Dabas taka Līgatnes upes krastā",
+          "PLACESUBTY": 3,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22427",
+          "BLOCKKEY": "410-14"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [570242.150100005, 332231.717399973]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Riebiņu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22425",
+          "BLOCKKEY": "407-521"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [557929.569500002, 359538.706699992]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Ugāles parks",
+          "PLACESUBTY": 1,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22721",
+          "BLOCKKEY": "710-138"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [381922.445899938, 350264.705799429]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Miķeļtornis\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22723",
+          "BLOCKKEY": "701-108"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [379271.954399933, 383978.439499321]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Sabiles jūrmala\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22727",
+          "BLOCKKEY": "714-213"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [412083.183499985, 324399.565499905]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie kāpām",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213-23"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [313395.17569974, 240120.422492285]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Grebu kalni",
+          "PLACESUBTY": 1,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22425",
+          "BLOCKKEY": "407-167"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [559368.093300002, 386858.205699989]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Jeru meža taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22422",
+          "BLOCKKEY": "404-329"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [581309.02890001, 408532.949199933]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Riteņbraucēju tilts",
+          "PLACESUBTY": 4,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-150"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [618605.636300063, 366307.024199403]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Riteņbraucēju tilts",
+          "PLACESUBTY": 4,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-136"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [618010.432700061, 366577.66539942]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Bramberģes atpūtas vieta",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22627",
+          "BLOCKKEY": "608-265"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [474672.1731, 276895.422199999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Riteņbraucēju tilts",
+          "PLACESUBTY": 4,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-133"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [617300.576400059, 367087.678899438]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Smiltenes velotakas",
+          "PLACESUBTY": 4,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-128"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [618169.652500062, 367681.764199416]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Dabas taka gar Abulu",
+          "PLACESUBTY": 3,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-132"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [615660.437900056, 366486.057399484]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Pātraža ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22125",
+          "BLOCKKEY": "106-618"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [663881.622600186, 358433.812195901]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Vaidavas ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22125",
+          "BLOCKKEY": "107-44"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [686089.372300029, 383474.928990935]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Vecmuižas ezers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-77"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [598952.806800027, 306551.805599812]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie ceļa uz Ložmetējkalnu",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22628",
+          "BLOCKKEY": "609-2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [477901.251, 302323.5556]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Skolas ceļa atpūtas vieta",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22628",
+          "BLOCKKEY": "609-69"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [479235.208599999, 296785.475299999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Ārijas-Jankovski ceļa",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22628",
+          "BLOCKKEY": "610-172"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [492347.6265, 278114.475400001]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Viesatas upesloki",
+          "PLACESUBTY": 3,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22624",
+          "BLOCKKEY": "603-314"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [436916.270999997, 298036.751299987]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Sēmes dabas taka pie Sēmas skolas",
+          "PLACESUBTY": 3,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22621",
+          "BLOCKKEY": "601-460"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [447698.766899999, 322721.669399994]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Naudas akmens",
+          "PLACESUBTY": 1,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-125"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [619532.329100065, 369057.69639937]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Eglones dižkoku taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22324",
+          "BLOCKKEY": "307-327"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [631446.976000108, 228687.229199067]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Dižais mežs\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22228",
+          "BLOCKKEY": "210-292"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [352135.245899827, 249695.248898065]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "LVM dabas parks Tērvetē",
+          "PLACESUBTY": 7,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22626",
+          "BLOCKKEY": "607-200"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [461393.3562, 260515.453600001]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "LVM Jaunmoku pils",
+          "PLACESUBTY": 7,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22622",
+          "BLOCKKEY": "603-125"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [442538.562199998, 315801.499399991]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Pūsēnkalns",
+          "PLACESUBTY": 1,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213-8"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [314037.605099747, 246751.71739238]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "LVM Pokaiņu mežs",
+          "PLACESUBTY": 7,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22625",
+          "BLOCKKEY": "607-270"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [442905.669099998, 270657.056799992]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Zebrus ezers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22625",
+          "BLOCKKEY": "605-261"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [439542.038199998, 276510.60039999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Garie kalni\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22627",
+          "BLOCKKEY": "608-288"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [478656.3253, 275922.3045]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Lielplatones taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22626",
+          "BLOCKKEY": "611-208"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [477387.9514, 252824.965500001]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Dunikas purva laipa\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213-533"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [338649.090399764, 236847.033496787]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Kaltenes kalvas",
+          "PLACESUBTY": 1,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22728",
+          "BLOCKKEY": "707-285"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [431345.687599996, 368963.310399978]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Piemiņas vieta \"1. pasaules kara vācu brāļu kapi\"",
+          "PLACESUBTY": 8,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22321",
+          "BLOCKKEY": "301-47"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [600291.706400029, 261279.362199806]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Piemiņas vieta \"1. pasaules kara vācu brāļu kapi\"",
+          "PLACESUBTY": 8,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22321",
+          "BLOCKKEY": "301-54"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [601179.385300031, 261778.102799797]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Stompaku partizānu mītne",
+          "PLACESUBTY": 1,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22824",
+          "BLOCKKEY": "806-145"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [712969.903699224, 338834.322880723]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Driksnas sils\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22821",
+          "BLOCKKEY": "801-269"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [635877.82000012, 283854.479498783]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Svētes ezers",
+          "PLACESUBTY": 1,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22625",
+          "BLOCKKEY": "606-55"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [438146.970999997, 274963.281699988]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Kalnciema skolas taka\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22628",
+          "BLOCKKEY": "609-66"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [477344.5632, 296144.7409]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Klīves 68.kv. dīķis\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22628",
+          "BLOCKKEY": "609-68"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [478482.5729, 296234.1203]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Piemiņas vieta \"Māras birzs\"",
+          "PLACESUBTY": 8,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22625",
+          "BLOCKKEY": "606-134"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [435696.023799997, 269486.759199984]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Silakalns",
+          "PLACESUBTY": 1,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22626",
+          "BLOCKKEY": "611-181"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [463738.3148, 248226.684299999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Tērvetes pansionāts\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22626",
+          "BLOCKKEY": "607-178"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [458222.3421, 259235.008199997]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Ezerlūķi\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22625",
+          "BLOCKKEY": "605-260"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [439283.294599997, 277131.88139999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Struteles Dievu kalns",
+          "PLACESUBTY": 1,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22624",
+          "BLOCKKEY": "603"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [433465.522899997, 294787.497299982]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Gambija\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22321",
+          "BLOCKKEY": "303-263"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [592091.984200019, 254032.271599884]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Sedas dabas taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22121",
+          "BLOCKKEY": "102"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [601943.08360003, 396667.176099751]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta Septiņi krusti",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22221",
+          "BLOCKKEY": "201"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [371467.288599908, 326665.158499081]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Aklā purva taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22524",
+          "BLOCKKEY": "506-222"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [568038.651300004, 263397.46229998]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Riežupe\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-330"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [377303.146899925, 320220.047399309]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Dzeltenās priedes",
+          "PLACESUBTY": 1,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22621",
+          "BLOCKKEY": "601-297"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [448973.138999999, 332209.893999996]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Bērzciema atpūtas vieta",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22621",
+          "BLOCKKEY": "601-14"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [449755.789099999, 348435.503699996]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Kalnansu purvs",
+          "PLACESUBTY": 1,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22225",
+          "BLOCKKEY": "207-26"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [402209.966699974, 308049.660899824]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Krāslavas priežu sils\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22326",
+          "BLOCKKEY": "311-280"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [699438.839600229, 197977.335189085]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Riteņbraucēju- gājēju laipas",
+          "PLACESUBTY": 4,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-166"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [617400.43740006, 364564.041099438]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Ragakāpas dabas taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22628",
+          "BLOCKKEY": "609-302"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [495096, 316910]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Priedaines skatu tornis",
+          "PLACESUBTY": 1,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22326",
+          "BLOCKKEY": "313-274"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [696721.467500259, 198607.076189938]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Jumurda\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22428",
+          "BLOCKKEY": "412-314"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [604647.854200035, 315057.363099734]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Tabakpurva atpūtas vieta",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22524",
+          "BLOCKKEY": "506-69"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [568360.348800004, 270991.90989998]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Banksa priedes\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22327",
+          "BLOCKKEY": "313-114"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [672117.00480031, 175435.343295611]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Ventspils piekraste\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22725",
+          "BLOCKKEY": "708-287"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [349557.399599841, 359813.101297538]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Papardes stacija\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22126",
+          "BLOCKKEY": "108-211"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [680608.218000139, 355490.610892682]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Ādmiņa ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22127",
+          "BLOCKKEY": "109-150"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [645156.587000145, 349551.886098039]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie sēravota un Gaujas",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22127",
+          "BLOCKKEY": "110-253"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [653983.287600172, 350109.942497208]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Murata ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22125",
+          "BLOCKKEY": "107-17"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [684682.589600046, 385521.325091315]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Papes dabas parks mūs gaida\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213-24"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [314062.460999737, 239876.059092451]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Dunikas purva laipas saliņa\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213-472"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [337950.356499762, 238828.141596694]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Slujas ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-88"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [389256.434799954, 330440.479899621]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Papes dabas takas",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213-79"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [313006.302899734, 234605.430292241]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Rucavas Priežu mežs\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [321914.776099715, 230750.449594236]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Maltu kraujas ceļa",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22125",
+          "BLOCKKEY": "106-380"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [666980.372300179, 369148.858195351]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Pinku ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22221",
+          "BLOCKKEY": "201-332"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [359700.602499868, 320027.460398458]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Riežupes dabas parks",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-358"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [379001.242499929, 318613.091299364]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Sviriņu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-445"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [390976.993899957, 320621.708399658]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Veides meža",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22229",
+          "BLOCKKEY": "211-347"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [408260.177699981, 280451.352499882]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Papes dabas parks\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "213-51"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [313695.118899735, 237229.262292386]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Kangaru ezers",
+          "PLACESUBTY": 1,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22426",
+          "BLOCKKEY": "409-627"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [544429.8274, 308708.767999996]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Augstrozes pilsdrupas",
+          "PLACESUBTY": 1,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22423",
+          "BLOCKKEY": "406-293"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [560627.482100002, 375107.374499989]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Ugunsapsardzības tornis „Gustiņi”",
+          "PLACESUBTY": 1,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22321",
+          "BLOCKKEY": "301-34"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [604050.265100036, 264647.895799757]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Pie kuiļa\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22321",
+          "BLOCKKEY": "303-160"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [584207.828300013, 246250.575899932]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Egļukalns",
+          "PLACESUBTY": 1,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22327",
+          "BLOCKKEY": "312-105"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [645793.984600172, 194422.153498338]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Šilovka\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22326",
+          "BLOCKKEY": "313-303"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [702946.887800193, 192240.413787966]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Jaunais ceļš\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22324",
+          "BLOCKKEY": "308-111"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [643875.32630016, 218962.555698418]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Čertoka ezers (Valnezers)",
+          "PLACESUBTY": 1,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22326",
+          "BLOCKKEY": "311-205"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [694024.643500243, 219762.007090493]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Gārsenes dabas taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22324",
+          "BLOCKKEY": "307-87"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [613364.187900054, 219320.76049962]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Upursalas dabas taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22323",
+          "BLOCKKEY": "306-293"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [685799.394900283, 224795.934992624]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Linmārka ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-217"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [396082.820299966, 329260.406599741]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Dzilnas\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22323",
+          "BLOCKKEY": "306-241"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [665844.282800256, 231879.076896234]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Sūnu taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22524",
+          "BLOCKKEY": "502"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [564026.537600004, 275932.078099986]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Ūdenstūristu nakšņošanas vieta pie Pededzes",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22126",
+          "BLOCKKEY": "108-284"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [685957.285000088, 352963.085891309]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Nātiņa ceļa",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22127",
+          "BLOCKKEY": "110-213"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [651504.679900164, 351437.711697461]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Kara ceļa",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22127",
+          "BLOCKKEY": "110-385"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [661423.212900188, 349256.107296296]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Mežvidu-2 ceļa",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22127",
+          "BLOCKKEY": "110-459"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [660435.96330019, 342348.048496461]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Pie medņa\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22822",
+          "BLOCKKEY": "802-138"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [652884.84350018, 311605.913797447]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Balvu vecais parks\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22824",
+          "BLOCKKEY": "805-39"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [695421.877599957, 336726.54128853]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Teirumnīku purva taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22825",
+          "BLOCKKEY": "808-90"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [680299.418200223, 289821.354293322]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Soročkas ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22825",
+          "BLOCKKEY": "809-249"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [702832.098300063, 239137.630287291]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Līdaču (Leidaču) ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22825",
+          "BLOCKKEY": "809-321"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [689245.33360025, 236694.929291643]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Basu vilkatu akmens",
+          "PLACESUBTY": 1,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22728",
+          "BLOCKKEY": "712-35"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [435698.792599997, 359030.655899983]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Grebļukalna taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22827",
+          "BLOCKKEY": "812-235"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [755183.695194271, 233478.877849853]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Krišjāņu Staburags\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22826",
+          "BLOCKKEY": "807-100"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [700858.447499925, 300323.896587073]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Ūdriņām",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "102-437"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [600172.590600028, 387642.412299776]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Kokšu ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "103-143"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [623883.878400075, 394263.627699195]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Silvas dendrārijs",
+          "PLACESUBTY": 1,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-180"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [617332.86710006, 364003.538299442]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Likvertene\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22527",
+          "BLOCKKEY": "509-115"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [518546.5027, 252593.421199999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "LVM Vijciema čiekurkalte",
+          "PLACESUBTY": 7,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "103-591"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [621929.43590007, 385178.880799277]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Niedrāja ezera \"Makšķernieku vieta\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-128"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [618371.704000062, 367212.697399408]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Klievezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-161"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [614628.877000054, 365104.009799514]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Biotopu taka pie Zīles",
+          "PLACESUBTY": 3,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22121",
+          "BLOCKKEY": "103-57"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [621981.91800007, 397483.680099264]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Plostu sienamā vieta",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22122",
+          "BLOCKKEY": "103-166"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [619843.162500065, 393845.90709934]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Niedrāja ezera \"Pussala\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-129"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [618635.664100063, 367807.317199399]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Niedrāja ezera \"Zalkšu vieta\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-128"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [618329.129800062, 367604.380099409]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Berlīnes krustojums\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22521",
+          "BLOCKKEY": "501-117"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [548934.511100001, 301534.505999994]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Ūdens tūristu nakšņošanas vieta pie Ogres upes \"Stāvais krasts\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22521",
+          "BLOCKKEY": "502-212"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [576697.591700007, 296706.140599958]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Kalnamuižas ezers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22524",
+          "BLOCKKEY": "502-506"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [563985.046200003, 275933.718999987]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Akmeņkalnu Velnapēda\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22721",
+          "BLOCKKEY": "702-270"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [384867.725199945, 365802.403099501]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Zilokalnu avots",
+          "PLACESUBTY": 1,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22722",
+          "BLOCKKEY": "703-125"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [408931.513999983, 386248.408599872]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Liepniekvalka alas",
+          "PLACESUBTY": 1,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22724",
+          "BLOCKKEY": "706-197"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [398819.164899971, 366759.694399769]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Grīžu velna beņķis",
+          "PLACESUBTY": 1,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22726",
+          "BLOCKKEY": "704-147"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [366037.572099894, 361939.432998769]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Kamparkalna skatu tornis",
+          "PLACESUBTY": 1,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22727",
+          "BLOCKKEY": "711-389"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [418089.299599989, 342071.011599936]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Vēžezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22727",
+          "BLOCKKEY": "714-322"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [399686.696199971, 332597.059599788]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "LVM atpūtas un tūrisma centrs \"Spāre\"",
+          "PLACESUBTY": 7,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22727",
+          "BLOCKKEY": "711-386"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [394237.723099963, 343049.971599706]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Novadnieki\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22729",
+          "BLOCKKEY": "713-399"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [385640.140399946, 330293.924899541]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Irbes ieteka\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22723",
+          "BLOCKKEY": "702-1"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [389553.231999955, 390508.627999598]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Driksnas sils\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22821",
+          "BLOCKKEY": "801-269"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [635447.075200118, 283970.559598806]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Komsomoļskaja izba\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22327",
+          "BLOCKKEY": "313-104"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [675172.71220032, 178471.936395106]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta Cīravas mežaparkā",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22223",
+          "BLOCKKEY": "203-408"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [339655.410299788, 290082.976096694]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Melnais dīķis\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22729",
+          "BLOCKKEY": "713-186"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [367905.115499897, 333525.215098907]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Zummera ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-130"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [619564.637500065, 367520.356999372]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Kungu kapi",
+          "PLACESUBTY": 1,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22124",
+          "BLOCKKEY": "105-342"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [644032.888600136, 376461.811598063]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Tupurīša ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "1",
+          "LVM_DISTRI": "22123",
+          "BLOCKKEY": "104-162"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [615403.771100055, 365442.663399492]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Numernes skatu tornis",
+          "PLACESUBTY": 1,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22826",
+          "BLOCKKEY": "810-224"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [713061.056099407, 305639.503281456]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Besetka\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22325",
+          "BLOCKKEY": "310-16"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [659843.752300234, 223650.347197011]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Raibais stuburiņš\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22322",
+          "BLOCKKEY": "305-55"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [622658.901400078, 253647.395999363]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Skaņaiskalns",
+          "PLACESUBTY": 1,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22422",
+          "BLOCKKEY": "403-230"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [559091.827700002, 415033.265199988]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Skaistkalnes karsta kritenēm",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22523",
+          "BLOCKKEY": "505-396"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [542782.759, 249764.156999999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Dziļūta ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22825",
+          "BLOCKKEY": "809-95"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [725711.993298871, 252951.670875439]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Slutišķu krauja",
+          "PLACESUBTY": 1,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22326",
+          "BLOCKKEY": "310"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [679673.722300315, 198983.380094157]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Viļānu ezers",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22825",
+          "BLOCKKEY": "808-278"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [680826.348300242, 270620.040693366]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Vecupes taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22621",
+          "BLOCKKEY": "601-57"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [452555.770399999, 337780.747199995]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Plieņciema kāpas taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22621",
+          "BLOCKKEY": "601-362"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [455140.1907, 327328.397699998]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Lāčupes dendroloģiskie stādījumi",
+          "PLACESUBTY": 1,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22621",
+          "BLOCKKEY": "601-525"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [460894.6271, 322660.385299998]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Čužu purva taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22622",
+          "BLOCKKEY": "602-104"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [425200.523399994, 320028.109499962]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Zaļenieku dabas parks",
+          "PLACESUBTY": 1,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22626",
+          "BLOCKKEY": "607-252"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [470457.9822, 265625.402799999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Zaķu pļava (aiz muižas pie upes)",
+          "PLACESUBTY": 1,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22626",
+          "BLOCKKEY": "611-162"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [471575.2221, 252762.7267]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Ziemassvētku kauju vieta piecu ceļu krustā",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22628",
+          "BLOCKKEY": "609-50"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [481487.5189, 299183.484999999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "LVM Tērvetes ūdenskrātuve",
+          "PLACESUBTY": 7,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22626",
+          "BLOCKKEY": "607-199"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [463752.4627, 261617.150099999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "LVM Lielauces ezers",
+          "PLACESUBTY": 7,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22625",
+          "BLOCKKEY": "606-224"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [432444.480999996, 265043.455999982]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Ložmetējkalns",
+          "PLACESUBTY": 1,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22628",
+          "BLOCKKEY": "609-7"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [479233.3233, 302499.1943]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Tildangas\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22729",
+          "BLOCKKEY": "713-279"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [387747.937499951, 335398.016799585]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Kondavnieki\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22325",
+          "BLOCKKEY": "310-58"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [664005.639000255, 218861.012196533]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Jātnieku klubs TELFAS",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22526",
+          "BLOCKKEY": "508-101"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [524201.799, 287564.0829]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Dzelzs briedis\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22726",
+          "BLOCKKEY": "709-101"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [371622.41339991, 351578.143999056]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Skrīveru dendroloģiskais parks",
+          "PLACESUBTY": 1,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22524",
+          "BLOCKKEY": "502-515"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [564731.701900003, 275264.277699983]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Skrīveru dendroloģiskā parka strūklaka.",
+          "PLACESUBTY": 1,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22524",
+          "BLOCKKEY": "502-515"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [564750.473900003, 275158.504699985]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Numernes valnis\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22826",
+          "BLOCKKEY": "810-204"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [713052.324899408, 305639.97068146]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta Cīravas mežaparkā",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22223",
+          "BLOCKKEY": "203-408"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [339248.381399787, 290008.232296645]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Fašisma upuru piemiņas vietas Rumbas pagastā",
+          "PLACESUBTY": 8,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22222",
+          "BLOCKKEY": "202-350"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [382370.785899938, 320104.272899463]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Bārtas upes",
+          "PLACESUBTY": 2,
+          "REG_CODE": "2",
+          "LVM_DISTRI": "22231",
+          "BLOCKKEY": "209-434"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [324506.941199733, 250056.774494595]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Pērkules krauja\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22327",
+          "BLOCKKEY": "313-114"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [672520.393100312, 175212.672895552]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Liepupes pilskalns",
+          "PLACESUBTY": 1,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22423",
+          "BLOCKKEY": "405-332"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [525661.1695, 369594.950599999]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Torņa krusts\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22622",
+          "BLOCKKEY": "602-364"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [416965.224899988, 303589.343399933]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Līdaces ezers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-617"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [607594.136500041, 280747.5163997]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Zīvartiņš\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22621",
+          "BLOCKKEY": "601-380"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [456542.011, 325719.879799997]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Bīlavu velna laiva",
+          "PLACESUBTY": 1,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22724",
+          "BLOCKKEY": "707-123"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [421730.159799991, 365311.476099949]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Kovšu ezera (Kaušezers)",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22827",
+          "BLOCKKEY": "812-193"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [750070.295795439, 238885.424155305]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Gulbju ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22727",
+          "BLOCKKEY": "711-219"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [394346.292399963, 343112.60519971]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Akmens\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "8",
+          "LVM_DISTRI": "22825",
+          "BLOCKKEY": "808-24"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [694263.370000075, 298666.673289441]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta pie Sesavas ezera",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22625",
+          "BLOCKKEY": "606-146"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [439591.671999998, 270303.983199989]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Liliju ezers\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22623",
+          "BLOCKKEY": "604-85"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [525191.9667, 292167.2113]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Vedzes dabas taka",
+          "PLACESUBTY": 1,
+          "REG_CODE": "5",
+          "LVM_DISTRI": "22522",
+          "BLOCKKEY": "503-115"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [587218.864700014, 313567.457399909]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Rojas dabas taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "7",
+          "LVM_DISTRI": "22722",
+          "BLOCKKEY": "707-183"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [425067.212599994, 375661.661699959]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Laukezera velotaka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22322",
+          "BLOCKKEY": "302-108"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [624432.584500082, 263261.156599299]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Dziesmu svētku taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22425",
+          "BLOCKKEY": "407-248"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [565070.368600003, 384126.283299983]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Kūku taka",
+          "PLACESUBTY": 3,
+          "REG_CODE": "3",
+          "LVM_DISTRI": "22322",
+          "BLOCKKEY": "302-114"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [626852.45290009, 266321.114399211]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Parks \"Zibeņi\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22426",
+          "BLOCKKEY": "408-250"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [518007.4296, 329979.6371]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas taka dabas parkā “Piejūra” Carnikavā",
+          "PLACESUBTY": 3,
+          "REG_CODE": "4",
+          "LVM_DISTRI": "22426",
+          "BLOCKKEY": "408-217"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [515226.8098, 332914.7835]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "PLACENAME": "Atpūtas vieta \"Doles sala\"",
+          "PLACESUBTY": 2,
+          "REG_CODE": "6",
+          "LVM_DISTRI": "22623",
+          "BLOCKKEY": "604-5"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [512285.6512, 302459.556399998]
+        }
+      }
+    ]
+  }
